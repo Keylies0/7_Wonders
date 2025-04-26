@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg18"
+   width="24.825098"
+   height="22.658676"
+   viewBox="0 0 24.825098 22.658676"
+   sodipodi:docname="carnet.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs22" />
+  <sodipodi:namedview
+     id="namedview20"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false" />
+  <g
+     id="g26"
+     inkscape:groupmode="layer"
+     inkscape:label="Page 1"
+     transform="matrix(1.3333333,0,0,-1.3333333,-21.610437,239.34303)">
+    <g
+       id="g216"
+       transform="translate(16.5912,166.9018)">
+      <path
+         d="M 0,0 8.712,12.189 17.858,0.567 9.493,-4.11 Z"
+         style="fill:#e9b13c;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path218" />
+    </g>
+    <g
+       id="g220"
+       transform="translate(16.5912,166.9018)">
+      <path
+         d="M 0,0 8.712,12.189 17.858,0.567 9.493,-4.11 Z"
+         style="fill:none;stroke:#231f20;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path222" />
+    </g>
+  </g>
+</svg>

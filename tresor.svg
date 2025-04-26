@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg18"
+   width="18.208"
+   height="18.148003"
+   viewBox="0 0 18.208 18.148003"
+   sodipodi:docname="carnet.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs22">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath206">
+      <path
+         d="M 0,0 H 283.465 V 212.598 H 0 Z"
+         id="path204" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview20"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false" />
+  <g
+     id="g26"
+     inkscape:groupmode="layer"
+     inkscape:label="Page 1"
+     transform="matrix(1.3333333,0,0,-1.3333333,-24.730534,208.31293)">
+    <g
+       id="g200">
+      <g
+         id="g202"
+         clip-path="url(#clipPath206)">
+        <g
+           id="g208"
+           transform="translate(25.3759,142.8737)">
+          <path
+             d="m 0,0 c 3.633,0 6.578,2.935 6.578,6.555 0,3.621 -2.945,6.556 -6.578,6.556 -3.633,0 -6.578,-2.935 -6.578,-6.556 C -6.578,2.935 -3.633,0 0,0"
+             style="fill:#f9a70d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path210" />
+        </g>
+        <g
+           id="g212"
+           transform="translate(25.3759,142.8737)">
+          <path
+             d="m 0,0 c 3.633,0 6.578,2.935 6.578,6.555 0,3.621 -2.945,6.556 -6.578,6.556 -3.633,0 -6.578,-2.935 -6.578,-6.556 C -6.578,2.935 -3.633,0 0,0 Z"
+             style="fill:none;stroke:#231f20;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path214" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

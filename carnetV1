@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carnet de score</title>
+    <link rel="icon" href="logo_img.svg">
+    <link rel="stylesheet" href="cssV1.css">
+  </head>
+  
+  <body>
+    
+    <table>
+      <tbody>
+      </tbody>
+    </table>
+    
+    <button id='choixReset'>Réinitialiser les scores</button>
+    <div id='confirm'>
+      Confirmation :
+      <button id='reset'>Réinitialiser</button>
+      <button id='annuler'>Annuler</button>
+    </div>
+    
+    <script src="jsV1.js"></script>
+    
+  </body>
+  
+</html>
